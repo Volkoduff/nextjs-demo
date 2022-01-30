@@ -1,0 +1,7 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/nextjs-my-app.iml
+.next/
+
+node_modules
+package-lock.json
