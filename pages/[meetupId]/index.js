@@ -11,7 +11,7 @@ const MeetupDetails = (props) => {
                 <meta name='description' content={props.meetupData.description}/>
             </Head>
             <MeetupDetail
-                image={prop s.meetupData.image}
+                image={props.meetupData.image}
                 title={props.meetupData.title}
                 address={props.meetupData.address}
                 description={props.meetupData.description}
